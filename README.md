@@ -1,5 +1,7 @@
 # remote-log-stream
 
+Socket based server-client utility which can be used to tail server logs realtime.
+
 ## Setup
 
 sh setup.sh
